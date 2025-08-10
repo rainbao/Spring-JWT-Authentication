@@ -59,7 +59,7 @@ jwt.expiration=604800000  # 7 days in milliseconds
 ### Run the App
 
 ```bash
-git clone https://github.com/yourusername/spring-jwt-authentication.git
+git clone https://github.com/rainbao/spring-jwt-authentication.git
 cd spring-jwt-authentication
 mvn clean install
 mvn spring-boot:run
