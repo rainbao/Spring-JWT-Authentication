@@ -1,7 +1,3 @@
-Here’s a **polished, streamlined version** of your README — still technical and informative, but leaner and more recruiter/interviewer-friendly. It removes excess repetition, simplifies some areas, and adds clarity while maintaining your strong structure.
-
----
-
 # Spring Boot JWT Authentication API
 
 A secure, modular JWT-based authentication system built with **Spring Boot 3**, **PostgreSQL**, and **modern JavaScript**, designed to demonstrate stateless auth best practices for REST APIs and SPAs.
